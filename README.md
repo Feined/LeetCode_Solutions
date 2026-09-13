@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Feined/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0498-diagonal-traverse](https://github.com/Feined/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
+| [0835-image-overlap](https://github.com/Feined/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Feined/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Feined/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
+| [0835-image-overlap](https://github.com/Feined/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Feined/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 ## Tree
 |  |
