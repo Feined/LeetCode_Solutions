@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Feined/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Feined/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Feined/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Feined/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Feined/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0485-max-consecutive-ones](https://github.com/Feined/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Feined/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Feined/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Feined/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Feined/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Feined/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Feined/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Feined/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Feined/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Feined/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Feined/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Feined/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Feined/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
@@ -182,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Feined/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Feined/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
