@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Feined/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Feined/LeetCode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Feined/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Feined/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Feined/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Feined/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Feined/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Feined/LeetCode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Feined/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Linked List
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Feined/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Feined/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Feined/LeetCode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Feined/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Feined/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Feined/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Feined/LeetCode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
