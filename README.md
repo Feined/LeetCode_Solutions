@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Feined/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Feined/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Feined/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Feined/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Feined/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0047-permutations-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Feined/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Feined/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Feined/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Feined/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Feined/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Feined/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Feined/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Feined/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Feined/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Feined/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Feined/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Feined/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Feined/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -208,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Feined/LeetCode_Solutions/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Feined/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
