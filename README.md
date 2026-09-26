@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/Feined/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Feined/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Feined/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Feined/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Feined/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Feined/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Feined/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Feined/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Feined/LeetCode_Solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Feined/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Feined/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Feined/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Feined/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Feined/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Feined/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Feined/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Feined/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -195,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Feined/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Feined/LeetCode_Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Feined/LeetCode_Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
