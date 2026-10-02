@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Feined/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Feined/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Feined/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Feined/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Feined/LeetCode_Solutions/tree/master/0055-jump-game) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Feined/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Feined/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Feined/LeetCode_Solutions/tree/master/0077-combinations) |
 ## Sliding Window
 |  |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Feined/LeetCode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Feined/LeetCode_Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
