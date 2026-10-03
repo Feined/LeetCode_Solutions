@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Feined/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Feined/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Feined/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Feined/LeetCode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Feined/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Feined/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
