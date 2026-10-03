@@ -1,0 +1,18 @@
+class Solution:
+    def fib(self, n: int) -> int:
+
+        # Approach - 1: Recursion
+        if n==0:
+            return 0
+        elif n==1:
+            return 1
+        # return self.fib(n-1)+self.fib(n-2)
+
+        # Approach - 2: DP
+        dp = [0]*(n+1)
+        dp[0] = 0
+        dp[1] = 1
+
+        for i in range(2,n+1):
+            dp[i] = dp[i-1]+dp[i-2]
+        return dp[-1]
