@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Feined/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Feined/LeetCode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Feined/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Feined/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Feined/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Feined/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Feined/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Feined/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Feined/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Feined/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Feined/LeetCode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Feined/LeetCode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Feined/LeetCode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Feined/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
