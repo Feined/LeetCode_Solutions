@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Feined/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Feined/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Feined/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Feined/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Feined/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Feined/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Feined/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0451-sort-characters-by-frequency](https://github.com/Feined/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Feined/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Feined/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Feined/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0856-score-of-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Feined/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Feined/LeetCode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Algorithm X
 |  |
@@ -320,8 +324,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Feined/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Feined/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
