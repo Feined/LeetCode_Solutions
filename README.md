@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Feined/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Feined/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Feined/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Feined/LeetCode_Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Feined/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Feined/LeetCode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Feined/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Feined/LeetCode_Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Feined/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Feined/LeetCode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2390-removing-stars-from-a-string](https://github.com/Feined/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
