@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Feined/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/Feined/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Feined/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/Feined/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Feined/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Feined/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Feined/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Feined/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Feined/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/Feined/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Feined/LeetCode_Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Quickselect
 |  |
