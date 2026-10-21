@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Feined/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Feined/LeetCode_Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Feined/LeetCode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Feined/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Feined/LeetCode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Feined/LeetCode_Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Feined/LeetCode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Feined/LeetCode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Feined/LeetCode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Feined/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Feined/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Feined/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Feined/LeetCode_Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Quickselect
 |  |
 | ------- |
