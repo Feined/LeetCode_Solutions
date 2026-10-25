@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Feined/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Feined/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Feined/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/Feined/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Feined/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Feined/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Feined/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/Feined/LeetCode_Solutions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Feined/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Feined/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 ## Tree
 |  |
@@ -220,11 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Feined/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Feined/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Feined/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Feined/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Feined/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -395,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Feined/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Feined/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
