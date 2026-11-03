@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Feined/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3719-longest-balanced-subarray-i](https://github.com/Feined/LeetCode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Feined/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Feined/LeetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Feined/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Feined/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Feined/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Feined/LeetCode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Feined/LeetCode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Feined/LeetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Feined/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Linked List
