@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Feined/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Feined/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Feined/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Feined/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Feined/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Feined/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Feined/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Feined/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Feined/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Feined/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Feined/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Feined/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Feined/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Feined/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Feined/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Feined/LeetCode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Feined/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Feined/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Feined/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Feined/LeetCode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -420,4 +424,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Feined/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
