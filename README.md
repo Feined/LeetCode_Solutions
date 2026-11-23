@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Feined/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Feined/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Feined/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Feined/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Feined/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Feined/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Feined/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Feined/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Feined/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Feined/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Feined/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/Feined/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Feined/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Feined/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Feined/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Feined/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Feined/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Feined/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Feined/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Feined/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3719-longest-balanced-subarray-i](https://github.com/Feined/LeetCode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3903-smallest-stable-index-i](https://github.com/Feined/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Feined/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Feined/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Feined/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Trie
 |  |
 | ------- |
